@@ -1,0 +1,33 @@
+body {
+  font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+  font-size: 14px;
+  line-height: 1.3rem;
+  color: #242729;
+  background: #FFF;
+}
+
+.btn {
+  outline: none;
+  border-radius: 3px;
+  width: 80%;
+  margin: 10px auto;
+  display: block;
+  height: 48px;
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 17px;
+  border: 1px solid #cccccc;
+  cursor: pointer;
+  font-size: 23px;
+}
+.h1 {
+  text-align: center;
+  line-height: 1.2em;
+}
+.btn.activate {
+  background-color: #5fba7d;
+  color: #fff;
+} 
+.btn.activating {
+  background-color: #b3b3a4; 
+}
