@@ -1,8 +1,8 @@
 //   9, 10,  11, 17, 18, 22 , 23 , 27
 $(function() {
   var pubnub = new PubNub({
-    publishKey : 'pub-c-fd75bdb3-a6bb-4110-a1e4-947620adf37d',
-    subscribeKey : 'sub-c-abbae878-e7e5-11e6-81cc-0619f8945a4f'
+    publishKey : '',
+    subscribeKey : ''
   }),
   sender_id = "mobile";
 
